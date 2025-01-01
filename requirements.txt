@@ -1,0 +1,5 @@
+gradio
+openai-whisper
+azure-cognitiveservices-speech
+python-dotenv
+
